@@ -1,0 +1,14 @@
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\bin\Debug\Framework.dll
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\bin\Debug\Framework.pdb
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\obj\Debug\Framework.dll
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\obj\Debug\Framework.pdb
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\bin\Debug\WebDriver.dll
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\bin\Debug\WebDriver.xml
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\bin\Debug\Framework.dll.config
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\bin\Debug\System.ValueTuple.dll
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Naaz\Desktop\AutomationFramework\Framework\Framework\bin\Debug\Newtonsoft.Json.xml
